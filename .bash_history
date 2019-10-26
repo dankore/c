@@ -34,3 +34,6 @@ clang what2.c
 ./a.out
 clang what2.c
 ./a.out
+git add .
+git commit -m "Counts characters and spaces in a string"
+git push
